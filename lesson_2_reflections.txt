@@ -11,3 +11,13 @@ small to be committed to the repository.
 
 Using the staging area allows users to load their changes
 incrementally, with a selected set of files at a time.
+
+Using a branch is useful when creating a different or alternative
+version of the project being worked on. It should also come
+in handy when experimenting with a completely new aspect that
+one would want to add to the project.
+
+Diagrams just give a visual representation of which branches
+are currently active, and gives a good indication of any
+future merges that need to be addressed once new features
+or modes are finished.
