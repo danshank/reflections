@@ -8,3 +8,6 @@ directory, but not be a part of the repository. This is valueable
 during testing of new features which make sense to exist inside
 a different file, but are still being worked on and are too
 small to be committed to the repository.
+
+Using the staging area allows users to load their changes
+incrementally, with a selected set of files at a time.
