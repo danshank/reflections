@@ -1,2 +1,10 @@
 When a repository is initialized, a .git file is added and
 allows the user the begin tracking changes between commits.
+
+The staging area is comprised of items within the working
+directory which will be committed in a git commit to the
+repository. This allows files to exist within the working
+directory, but not be a part of the repository. This is valueable
+during testing of new features which make sense to exist inside
+a different file, but are still being worked on and are too
+small to be committed to the repository.
