@@ -1,0 +1,31 @@
+Viewing only the specific lines which changed made it so that 
+I didn't have to read through lines and lines of identical code.
+
+Being able to see the changes and then look at changes in the
+codes functionality from version to version allows tracking
+of when features began to break or behave differently
+
+There has to be an intentional save. The greatest benefit of
+automatic saving is that it is fairly mindless, but once one
+starts to try comparing file to file, they may find that the
+specific save points are too close together, and one has to go
+back quite a few versions before a certain functionality is
+restored.
+
+In Git, there are usually multiple files which are importing features
+from one another, so if one changes, it makes sense that the other
+interconnected files should change as well. That same instance
+isn't the intended use of Google Docs.
+
+git log allows one to view all commits that they've made, as well
+as the number of changes between commits and any comments made
+on them. git diff shows the precise changes between files.
+
+Making changes that can break something and committing them is
+easily reversible since the changes that are made are seen quite
+readily.
+
+I want to use git to more easily take the Udacity course, Machine
+Learning, and understand other people's code. I also would like
+to build a portfolio of my machine learning coding that I plan
+to aggregate over the course of the next few weeks.

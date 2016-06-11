@@ -1,0 +1,2 @@
+When a repository is initialized, a .git file is added and
+allows the user the begin tracking changes between commits.
