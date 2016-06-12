@@ -16,3 +16,7 @@ repositories from github to local, or vice-versa.
 
 Local copies of the last known state allows offline usage of the git
 repository.
+
+Collaborating without GitHub would involve constantly copying and pasting
+new features, or copying new files into a repository. It would be much
+harder to make sure things were up to date.
