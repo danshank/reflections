@@ -7,3 +7,9 @@ Pulling changes manually instead of automatically lets you make
 conscienous decisions about which branches you want to update. If you're
 in the middle of creating a new feature, typically you would want
 to push an incomplete feature, since it would be useless for the public.
+
+Forks are copies of other github repositories, whereas clones encompass
+any copy of a repository, wherever its located. Branches are different
+version of a given repository. Forks are used to begin creating your own 
+version of someone else's repository, clones can be used to move
+repositories from github to local, or vice-versa.
