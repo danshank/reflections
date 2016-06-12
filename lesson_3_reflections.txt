@@ -20,3 +20,10 @@ repository.
 Collaborating without GitHub would involve constantly copying and pasting
 new features, or copying new files into a repository. It would be much
 harder to make sure things were up to date.
+
+Changes in master usually encompass permanent changes to the project
+such as additional features. Typically things like bug fixes should be
+addressed in a branch other than master, but sometimes they slip by and
+bug fixes are necessary for master. Working in master is like building
+the main framework, where other branches help build the components that
+you would like to add to the larger framework.
