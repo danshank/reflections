@@ -21,3 +21,13 @@ Diagrams just give a visual representation of which branches
 are currently active, and gives a good indication of any
 future merges that need to be addressed once new features
 or modes are finished.
+
+Merging two branches together groups any changes made on 
+the two branches from their orginal split, and adds them
+all into a new version, incorporating the changes from both
+versions.
+
+Manual merges seem to have the benefit where, if there is a
+change in a function, or code is simplified, that simplification
+won't be overwritten, or made redundent. The automatic
+merging if very very convenient though.
