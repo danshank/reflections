@@ -13,3 +13,6 @@ any copy of a repository, wherever its located. Branches are different
 version of a given repository. Forks are used to begin creating your own 
 version of someone else's repository, clones can be used to move
 repositories from github to local, or vice-versa.
+
+Local copies of the last known state allows offline usage of the git
+repository.
