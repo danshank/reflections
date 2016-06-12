@@ -1,1 +1,4 @@
-
+Working with a remote repository would allows for easily transitioning
+from one location to another, and continuing to work on a project rather
+than have all the work created stay in one space. It also allows project
+collaborators to work remotely, instead of on the same desktop.
